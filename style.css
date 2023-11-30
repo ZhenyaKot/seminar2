@@ -108,7 +108,7 @@ body {
 
 .main-right {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 .main {
